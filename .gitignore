@@ -1,0 +1,46 @@
+# eclipse
+bin
+*.launch
+.settings
+.metadata
+.classpath
+.project
+
+# idea
+out
+*.ipr
+*.iws
+*.iml
+.idea
+
+# gradle
+build
+.gradle
+
+# other
+eclipse
+run
+/classes/
+
+# vscode
+c_project/out
+/Planung/~$*.docx
+*.lck
+/c_project/obj/
+/c_project/cmake-build-debug-propware/
+/c_project/cmake-build-debug/
+/c_project/CMakeFiles/
+/c_project/CMakeCache.txt
+/c_project/*.i
+/c_project/*.s
+
+/c_project_schlitten/obj/
+/c_project_schlitten/cmake-build-debug-propware/
+/c_project_schlitten/cmake-build-debug/
+/c_project_schlitten/CMakeFiles/
+/c_project_schlitten/CMakeCache.txt
+/c_project_schlitten/*.i
+/c_project_schlitten/*.s
+
+*~$*.docx
+*~*.tmp
