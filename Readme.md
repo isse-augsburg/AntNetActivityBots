@@ -22,7 +22,7 @@ Purpose of the development of this project was to support the education of swarm
 View a Demo of this Project [on YouTube](https://www.youtube.com/watch?v=7R8DzrirUuw).
 
 ### SourceCode 
-Access the source code on the [ISSE GitLab]( https://gitlab.isse.de/mki/teaching/soes_activitybot).
+Access the source code [here]( https://github.com/isse-augsburg/AntNetActivityBots).
 
 ## Project structure
 ### [C-Project](c_project)
