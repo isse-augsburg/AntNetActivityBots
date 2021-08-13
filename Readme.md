@@ -54,8 +54,8 @@ Access the source code [here]( https://github.com/isse-augsburg/AntNetActivityBo
 
 ### [Documentation](docs)
 - Further documentation
-- [Overview of the code with project structure as well as relevant code segments](docs/CodeÜbersicht.pdf)
-- [Assembly instructions of the ActivityBots hardware](docs/Aufbauanleitung%20Ants.pdf)
+- [Overview of the code with project structure as well as relevant code segments](docs/Code%20Overview.pdf)
+- [Assembly instructions of the ActivityBots hardware](docs/Assembly%20Instructions%20Ants.pdf)
 
 ----
 ## Contact
